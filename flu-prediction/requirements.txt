@@ -1,0 +1,8 @@
+datetime
+python-dateutil
+matplotlib
+numpy
+pandas
+plotly
+openpyxl
+scipy
